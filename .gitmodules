@@ -1,0 +1,6 @@
+[submodule "CV"]
+	path = CV
+	url = https://github.com/mathisgauthey/CV.git
+[submodule "CV-pdf"]
+	path = CV-pdf
+	url = https://github.com/mathisgauthey/CV-pdf.git
