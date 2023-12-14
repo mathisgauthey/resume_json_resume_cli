@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "puppeteer": "^21.6.1",
-    "resume-cli": "^3.0.8"
+    "puppeteer": "^21.6.1"
   }
 }

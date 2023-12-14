@@ -5,3 +5,5 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 nvm install --lts
 # WSL specific dependencies
 sudo apt install libgtk-3-dev libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2
+# Install resume-cli
+npm install -g resume-cli
